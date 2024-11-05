@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://apovuema.github.io/Gvx/sitemap_index.txt
+Sitemap: https://apovuema.github.io/NBA/sitemap_index.txt
+Sitemap: https://apovuema.github.io/Njd/sitemap_index.txt
+Sitemap: https://apovuema.github.io/thP/sitemap_index.txt
